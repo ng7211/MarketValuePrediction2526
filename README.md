@@ -5,7 +5,7 @@ The goal of this project is to predict market values of Premier League players b
 Most of the data used to predict the market values were extracted from a football api, while the rest was collected from csv files.
 I used One-Hot-Encoding for the position metric and had to take care of missing values in the dataset.
 After Preprocessing, I trained different models and analyzed the feature importance of one model to know which features are of highest and least importance.
-Due to analyzing the importance of metrics, I left out some feature that weren't of importance during training.
+Due to analyzing the importance of metrics, I left out some features that weren't of importance during training.
 To conclude I compared the models with each other.
 
 ## Results
